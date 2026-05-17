@@ -25,17 +25,16 @@ Este projeto foi desenvolvido pensando na formação técnica e superior de:
 ---
 
 ## 📸 Demonstração
-*(Dica: Suba um print do app no seu GitHub e coloque o link abaixo)*
-![Screenshot do Simulador](link-da-sua-imagem-aqui.png)
+
 
 ---
 
 ## 🛠️ Suporte e Contato
-Desenvolvido por **Matheus Marques Ferreira**.  
+Desenvolvido por **Matheus Marques**.  
 Se você tiver dúvidas, sugestões ou precisar de suporte técnico, entre em contato:
 
 📩 **E-mail:** [bioferreira.dev@gmail.com](mailto:bioferreira.dev@gmail.com)  
-📍 **Desenvolvedor:** Aragarças-GO - Brasil
+📍 **Desenvolvedor:** - Brasil
 
 ---
 
