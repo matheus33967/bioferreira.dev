@@ -39,6 +39,6 @@ Se você tiver dúvidas, sugestões ou precisar de suporte técnico, entre em co
 ---
 
 ## ⚖️ Links Importantes
-* [Política de Privacidade](https://docs.google.com/document/d/e/2PACX-1vSq8j9ws1MlW5ML-yo_SrxPsyXnJl6LUHuKz07FuMm92ADnlz7efJc6jPyGBHSuOWWagVptz6y4z7u6/pub)
-* [Termos de Uso](https://matheus33967.github.io/terms.md)
-* **Arquivo de Segurança:** [app-ads.txt](https://matheus33967.github.io/app-ads.txt)
+* [Política de Privacidade](https://matheus33967.github.io/bioferreira.dev/privacy)
+* [Termos de Uso](https://matheus33967.github.io/bioferreira.dev/termos)
+
