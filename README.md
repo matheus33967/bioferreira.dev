@@ -12,6 +12,7 @@ O **Lâmina Virtual: Leucócitos** é um simulador educacional avançado, desenv
 * **📊 Laudos Automáticos:** Ao finalizar a contagem, gere um laudo profissional em PDF pronto para compartilhamento.
 * **⚠️ Cenários Clínicos:** Pratique em situações de normalidade e desvios como Neutrofilia e Eosinofilia.
 * **⚡ Feedback em Tempo Real:** Descubra o resultado na hora! O app utiliza um sistema intuitivo de luzes (verde e vermelho) combinado com efeitos sonoros dinâmicos para sinalizar seus acertos e erros durante a interação.
+
 ---
 
 ## 🎯 Para quem é este App?
