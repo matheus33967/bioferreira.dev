@@ -1,5 +1,5 @@
-# 🔬 Lâmina Virtual: Leucócitos
-**Domine a hematologia na palma da sua mão.**
+# 🔬 Domine a hematologia na palma da sua mão.
+ 
 
 O **Lâmina Virtual: Leucócitos** é um simulador educacional avançado, desenvolvido para transformar seu celular em um microscópio virtual realista. Ideal para estudantes e profissionais que buscam aprimorar a identificação de células sanguíneas com rigor clínico.
 
